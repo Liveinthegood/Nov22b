@@ -1,0 +1,240 @@
+/* for mobile phone view below */
+
+
+#features {
+  padding: 5% 4%;
+  background-color: white;
+  position: relative;
+  
+  }
+
+  .title2{
+
+    font-size: 55px;
+    color:red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: yellow;
+    text-align: center;
+  }
+
+  .bodytext{
+
+    font-size: 50px;
+  }
+
+  h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+    font-size: 3.5rem;
+    line-height: 1.5;
+    text-align: left;
+    padding-bottom: 20px;
+  }
+
+
+  .picture {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  /* Yellow box for 3 ways to learn native strength -  index page */
+
+.stepsshopping{
+
+  font-size: 55px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: yellow;
+  color:black;
+}
+
+
+.setpslistthree{
+
+  font-size: 55px;
+}
+
+.threeFastWaysHeader {
+
+  color:red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+}
+
+
+
+.btn3 {
+  background: #F63D3D;
+  background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+  background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+  background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+  background-image: -o-linear-gradient(top, #F63D3D, #811616);
+  background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 15px;
+  line-height: 10px;
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  font-size: 66px;
+  font-weight: 900;
+  padding: 28px;
+  -webkit-box-shadow: 1px 1px 6px 0 #000000;
+  -moz-box-shadow: 1px 1px 6px 0 #000000;
+  box-shadow: 1px 1px 6px 0 #000000;
+  text-shadow: 1px 1px 6px #000000;
+  border: solid #762C2C 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+
+
+  /* button below for gofund me block */
+
+
+  .btn2 {
+    background: #F63D3D;
+    background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+    background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+    background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+    background-image: -o-linear-gradient(top, #F63D3D, #811616);
+    background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 10px;
+    line-height: 10px;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 249px;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 28px;
+    -webkit-box-shadow: 1px 1px 6px 0 #000000;
+    -moz-box-shadow: 1px 1px 6px 0 #000000;
+    box-shadow: 1px 1px 6px 0 #000000;
+    text-shadow: 1px 1px 6px #000000;
+    border: solid #762C2C 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 20px;
+  
+  }
+
+
+#gofundmeblock {
+  text-align: left;
+  padding-bottom: 20px;
+  background-color: black;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  
+  }
+
+
+  .thankyouTEXTgofundme{
+
+    text-align: center;
+    color: yellow;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .gofundmePicture{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:50%;
+    width:50%;
+  
+  }
+
+  .gofundmeText {
+
+    color: white;
+    text-align: left;
+    font-size: 45px;
+  }
+
+
+
+  /* for span area to add bold color to words */
+
+
+.pro{
+  color:red;
+
+}
+
+.pro2{
+  color:green;
+
+
+}
+
+.pro3{
+  color:blue;
+
+
+}
+
+.pro4{
+
+  color:yellow;
+}
+
+
+
+
+
+.footerindex {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: orange;
+  
+  }
+
+
+.footercopy  {
+
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+/* end here */
+
+
+
+
+
+
+
+
+
+
